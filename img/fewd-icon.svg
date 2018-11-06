@@ -1,0 +1,38 @@
+<svg width="144" height="144" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" y="104.861" x="46.961" width="20.998" opacity="0.3" height="5.003" fill="#528AC8"/>
+  <path stroke-width="2" id="svg_3" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none" d="m91.732,104.989l-76.049,0c-6.623,0 -12.042,-5.419 -12.042,-12.042l0,-58.82c0,-6.623 5.419,-12.042 12.042,-12.042l83.771,0c6.623,0 12.042,5.419 12.042,12.042l0,22.536"/>
+  <path stroke-width="2" id="svg_4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none" d="m90.990986,87.721475l-75.97,0c-3.558,0 -6.469,-2.911 -6.469,-6.469l0,-46.804c0,-3.558 2.911,-6.47 6.47,-6.47l83.613,0c3.558,0 6.469,2.911 6.469,6.469l0,21.675"/>
+  <path id="svg_5" opacity="0.3" fill="#528AC8" d="m9.292,36.519l0,-2.052c0,-3.558 2.911,-6.47 6.47,-6.47l83.613,0c3.558,0 6.469,2.911 6.469,6.469l0,2.053l-96.552,0z"/>
+  <path id="svg_6" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="#ede2e1" d="m9.292,36.519l0,-2.052c0,-3.558 2.911,-6.47 6.47,-6.47l83.613,0c3.558,0 6.469,2.911 6.469,6.469l0,2.053l-96.552,0z"/>
+  <circle id="svg_7" r="3.605" opacity="0.3" fill="#528AC8" cy="96.613" cx="57.569"/>
+  <circle stroke-width="2" id="svg_8" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" r="3.605" fill="#ede2e1" cy="96.613" cx="57.569"/>
+  <path stroke-width="2" id="svg_9" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="#ede2e1" d="m68.111,105.247c0,0 -1.904,12.308 7.468,12.308c-11.421,0 -18.743,0 -18.743,0l1.171,0c0,0 -7.028,0 -18.45,0c9.371,0 7.321,-12.18 7.321,-12.18"/>
+  <rect stroke-width="2" id="svg_10" y="42.927" x="16.538" width="35.955" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" height="13.434" fill="none"/>
+  <line stroke-width="2" id="svg_12" y2="44.555" y1="44.555" x2="88.36" x1="58.36" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke-width="2" id="svg_13" y2="49.739313" y1="49.739313" x2="93.36" x1="58.36" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke-width="2" id="svg_14" y2="54.555" y1="54.555" x2="88.36" x1="58.36" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <rect id="svg_15" y="63.77" x="16.538" width="17.978" opacity="0.3" height="17.978" fill="#528AC8"/>
+  <rect stroke="#bc2618" stroke-width="2" id="svg_16" y="63.77" x="16.538" width="17.978" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" height="17.978" fill="#ede2e1"/>
+  <rect stroke-width="2" id="svg_17" y="63.77" x="41.035" width="17.978" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" height="17.978" fill="none"/>
+  <rect stroke-width="2" id="svg_18" y="63.77" x="65.532" width="17.978" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" height="17.978" fill="none"/>
+  <path stroke-width="2" id="svg_19" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none" d="m134.727,124.88l-38.131,0c-2.652,0 -4.822,-2.17 -4.822,-4.822l0,-58.578c0,-2.652 2.17,-4.822 4.822,-4.822l38.131,0c2.652,0 4.822,2.17 4.822,4.822l0,58.578c0,2.652 -2.17,4.822 -4.822,4.822z"/>
+  <path stroke-width="2" id="svg_20" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none" d="m133.102,113.904l-34.88,0c-1.717,0 -3.11,-1.392 -3.11,-3.11l0,-47.134c0,-1.717 1.392,-3.11 3.11,-3.11l34.88,0c1.717,0 3.11,1.392 3.11,3.11l0,47.134c-0.001,1.718 -1.393,3.11 -3.11,3.11z"/>
+  <circle id="svg_21" r="2.206" opacity="0.3" fill="#528AC8" cy="119.246" cx="117.456"/>
+  <circle stroke="#bc2618" stroke-width="2" id="svg_22" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" r="2.206001" fill="#ede2e1" cy="119.246" cx="117.456"/>
+  <rect id="svg_23" y="65.646" x="100.96" width="30.596" opacity="0.3" height="25.649" fill="#528AC8"/>
+  <rect stroke="#bc2618" stroke-width="2" id="svg_24" y="65.646" x="100.318" width="31.238" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" height="25.649" fill="#ede2e1"/>
+  <line stroke-width="2" id="svg_25" y2="98.555" y1="98.555" x2="125.36" x1="101.36" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke-width="2" id="svg_26" y2="102.555" y1="102.555" x2="121.36" x1="101.36" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke="#bc2618" stroke-width="2" id="svg_28" y2="46.741" y1="40.51" x2="125.538" x1="125.538" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <line stroke-width="2" id="svg_29" y2="43.625" y1="43.625" x2="122.423" x1="128.654" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke-width="2" id="svg_31" y2="28.777" y1="18.369" x2="135.663" x1="135.663" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+  <line stroke-width="2" id="svg_32" y2="23.573" y1="23.573" x2="130.46" x1="140.867" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#bc2618" fill="none"/>
+ </g>
+</svg>

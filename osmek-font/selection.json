@@ -1,0 +1,739 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M448 192c0-31.488-26.016-64-64-64-16.992 0-31.808 6.176-44.16 18.56l-318.656 318.656c-10.496 10.496-21.184 23.456-21.184 46.784s8.928 34.56 20.672 46.304l319.168 319.136c12.352 12.384 27.168 18.56 44.16 18.56 38.016 0 64-32.512 64-64 0-16.512-5.952-31.552-18.56-44.16l-275.84-275.84 275.84-275.84c12.608-12.608 18.56-27.648 18.56-44.16zM1002.816 465.216l-318.656-318.656c-12.352-12.384-27.168-18.56-44.16-18.56-38.016 0-64 32.512-64 64 0 16.512 5.952 31.552 18.56 44.16l275.84 275.84-275.84 275.84c-12.608 12.608-18.56 27.648-18.56 44.16 0 31.488 26.016 64 64 64 16.992 0 31.808-6.176 44.16-18.56l319.168-319.136c11.744-11.744 20.672-22.976 20.672-46.304s-10.688-36.288-21.184-46.784z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(188, 38, 24)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "coding-icon"
+        ],
+        "colorPermutations": {
+          "188382412552552551": [
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(188, 38, 24)"
+        }
+      ],
+      "properties": {
+        "order": 23,
+        "id": 2,
+        "name": "coding-icon",
+        "prevSize": 64,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M234.731 981.333v0c-25.963 0-51.2-5.099-75.029-15.189-6.549-2.773-11.264-8.597-12.629-15.552s0.832-14.144 5.845-19.157l75.413-75.392v-60.352h-60.331l-75.413 75.392c-5.013 5.013-12.16 7.253-19.157 5.845-6.955-1.344-12.8-6.080-15.552-12.629-30.656-72.448-14.571-155.115 40.96-210.645 36.203-36.224 84.373-56.171 135.616-56.171 21.056 0 41.643 3.349 61.355 10.005l311.531-311.531c-23.296-68.971-5.931-144.917 46.144-196.992 36.224-36.203 84.395-56.149 135.637-56.149 25.963 0 51.2 5.099 75.029 15.189 6.549 2.773 11.264 8.597 12.629 15.552s-0.832 14.144-5.845 19.157l-75.413 75.435v60.352h60.352l75.392-75.413c5.013-5.013 12.117-7.253 19.157-5.845 6.955 1.344 12.8 6.080 15.552 12.629 30.656 72.448 14.571 155.115-40.96 210.645-36.203 36.203-84.373 56.149-135.616 56.149-21.056 0-41.643-3.349-61.355-10.005l-311.531 311.531c23.296 68.971 5.909 144.917-46.165 196.992-36.203 36.203-84.373 56.149-135.616 56.149zM208.341 936.363c8.64 1.536 17.451 2.304 26.389 2.304 39.851 0 77.291-15.509 105.451-43.648 43.2-43.179 55.701-107.52 31.851-163.861-3.392-8-1.579-17.259 4.565-23.403l331.008-331.008c6.165-6.144 15.445-7.979 23.403-4.565 18.539 7.829 38.187 11.819 58.389 11.819 39.851 0 77.291-15.509 105.451-43.669 35.179-35.179 50.005-84.395 41.387-131.904l-56.469 56.469c-4.011 4.011-9.429 6.251-15.083 6.251h-90.496c-11.776 0-21.333-9.536-21.333-21.333v-90.496c0-5.675 2.24-11.093 6.251-15.083l56.448-56.427c-8.661-1.536-17.472-2.304-26.411-2.304-39.851 0-77.312 15.509-105.472 43.648-43.179 43.2-55.68 107.52-31.829 163.861 3.392 8 1.579 17.259-4.565 23.403l-331.029 331.008c-6.144 6.144-15.424 7.957-23.403 4.565-18.539-7.829-38.187-11.819-58.389-11.819-39.851 0-77.312 15.509-105.451 43.669-35.179 35.179-50.005 84.395-41.387 131.904l56.469-56.469c4.011-4.011 9.429-6.251 15.083-6.251h90.517c11.776 0 21.333 9.536 21.333 21.333v90.517c0 5.675-2.24 11.093-6.251 15.083l-56.427 56.405z",
+          "M896 981.333c-22.784 0-44.224-8.875-60.352-25.003l-196.096-196.117c-8.341-8.341-8.341-21.824 0-30.165l90.496-90.496c8.341-8.341 21.824-8.341 30.165 0l196.117 196.117c16.128 16.107 25.003 37.547 25.003 60.331 0 22.805-8.896 44.245-25.003 60.352s-37.525 24.981-60.331 24.981zM684.821 745.131l181.013 181.035c16.107 16.107 44.203 16.128 60.331 0 8.064-8.064 12.501-18.773 12.501-30.165s-4.437-22.123-12.48-30.165l-181.035-181.035-60.331 60.331z",
+          "M229.935 199.753l243.423 243.423-30.17 30.17-243.423-243.423 30.17-30.17z",
+          "M609.365 811.733c-5.461 0-10.923-2.091-15.083-6.251-8.341-8.341-8.341-21.824 0-30.165l181.013-181.013c8.341-8.341 21.824-8.341 30.165 0s8.341 21.824 0 30.165l-181.013 181.013c-4.16 4.16-9.621 6.251-15.083 6.251z",
+          "M184.683 266.347c-5.461 0-10.923-2.091-15.083-6.251l-120.683-120.683c-4.011-3.989-6.251-9.408-6.251-15.083s2.24-11.093 6.251-15.083l60.331-60.331c8.341-8.341 21.824-8.341 30.165 0l120.683 120.683c4.011 4.011 6.251 9.408 6.251 15.083s-2.24 11.093-6.251 15.083l-60.331 60.331c-4.16 4.181-9.621 6.251-15.083 6.251zM94.165 124.331l90.517 90.517 30.165-30.165-90.517-90.517-30.165 30.165z",
+          "M563.899 533.684l156.595 156.595-30.17 30.17-156.595-156.595 30.17-30.17z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(188, 38, 24)",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 21.333333333333332
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "database-settings"
+        ],
+        "colorPermutations": {
+          "188382412552552551": [
+            {
+              "f": 0,
+              "s": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(188, 38, 24)",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 21.333333333333332
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        }
+      ],
+      "properties": {
+        "order": 24,
+        "id": 1,
+        "name": "database-settings",
+        "prevSize": 64,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M12.8 12.8h1126.4v998.4h-1126.4v-998.4z",
+          "M1126.4 25.6v972.8h-1100.8v-972.8h1100.8zM1152 0h-1152v1024h1152v-1024z",
+          "M26.88 26.88h1098.24v227.84h-1098.24v-227.84z",
+          "M1123.84 29.44v224h-1094.4v-224h1094.4zM1126.4 25.6h-1100.8v230.4h1100.8v-230.4z",
+          "M204.8 128c0 42.415-34.385 76.8-76.8 76.8s-76.8-34.385-76.8-76.8c0-42.415 34.385-76.8 76.8-76.8s76.8 34.385 76.8 76.8z",
+          "M409.6 128c0 42.415-34.385 76.8-76.8 76.8s-76.8-34.385-76.8-76.8c0-42.415 34.385-76.8 76.8-76.8s76.8 34.385 76.8 76.8z",
+          "M614.4 128c0 42.415-34.385 76.8-76.8 76.8s-76.8-34.385-76.8-76.8c0-42.415 34.385-76.8 76.8-76.8s76.8 34.385 76.8 76.8z",
+          "M89.6 384h230.4v179.2h-230.4v-179.2z",
+          "M448 384h230.4v179.2h-230.4v-179.2z",
+          "M832 384h230.4v179.2h-230.4v-179.2z",
+          "M25.6 473.6h51.2",
+          "M332.8 473.6h102.4",
+          "M691.2 473.6h128",
+          "M76.8 678.4h243.2",
+          "M76.8 729.6h243.2",
+          "M76.8 780.8h243.2",
+          "M448 678.4h230.4",
+          "M448 729.6h230.4",
+          "M448 780.8h230.4",
+          "M832 678.4h217.6",
+          "M832 729.6h217.6",
+          "M832 780.8h217.6",
+          "M102.4 396.8h204.8v153.6h-204.8v-153.6z",
+          "M460.8 396.8h204.8v153.6h-204.8v-153.6z",
+          "M844.8 396.8h204.8v153.6h-204.8v-153.6z",
+          "M1075.2 473.6h51.2"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)"
+          },
+          {
+            "fill": "rgb(188, 38, 24)",
+            "opacity": 0.19
+          },
+          {
+            "fill": "rgb(188, 38, 24)",
+            "opacity": 0.19
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(255, 255, 255)",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(188, 38, 24)",
+            "opacity": 0.19,
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(188, 38, 24)",
+            "opacity": 0.19,
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "rgb(188, 38, 24)",
+            "opacity": 0.19,
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(188, 38, 24)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "10",
+            "strokeWidth": 25.6
+          }
+        ],
+        "width": 1152,
+        "isMulticolor": true,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "ux-ui-01"
+        ],
+        "colorPermutations": {
+          "188382412552552551": [
+            {
+              "f": 1
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 1,
+              "s": 0
+            },
+            {
+              "f": 1,
+              "s": 0
+            },
+            {
+              "f": 1,
+              "s": 0
+            },
+            {
+              "f": 1,
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "s": 0
+            },
+            {
+              "f": 0,
+              "s": 0
+            },
+            {
+              "f": 0,
+              "s": 0
+            },
+            {
+              "f": 0,
+              "s": 0
+            },
+            {
+              "s": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)"
+        },
+        {
+          "fill": "rgb(188, 38, 24)",
+          "opacity": 0.19
+        },
+        {
+          "fill": "rgb(188, 38, 24)",
+          "opacity": 0.19
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(188, 38, 24)",
+          "opacity": 0.19,
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(188, 38, 24)",
+          "opacity": 0.19,
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "rgb(188, 38, 24)",
+          "opacity": 0.19,
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(188, 38, 24)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "10",
+          "strokeWidth": 25.6
+        }
+      ],
+      "properties": {
+        "order": 26,
+        "id": 0,
+        "name": "ux-ui-01",
+        "prevSize": 64,
+        "code": 59650,
+        "codes": [
+          59650,
+          59651,
+          59652,
+          59653,
+          59654,
+          59655,
+          59656,
+          59657,
+          59658,
+          59659,
+          59660,
+          59661,
+          59662,
+          59663,
+          59664,
+          59665,
+          59666,
+          59667,
+          59668,
+          59669,
+          59670,
+          59671,
+          59672,
+          59673,
+          59674,
+          59675
+        ]
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 2
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "OsmekPort"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "om-",
+      "metadata": {
+        "fontFamily": "OsmekPort",
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "noie8": false,
+      "ie7": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
